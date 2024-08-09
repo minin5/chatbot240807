@@ -1,4 +1,3 @@
-
 pysqlite3-binary
 langchain
 chromadb
@@ -10,3 +9,4 @@ openai
 pypdf
 loguru
 docx2txt
+langchain_community
