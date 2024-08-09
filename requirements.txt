@@ -9,4 +9,4 @@ openai
 pypdf
 loguru
 docx2txt
-langchain_community
+langchain-community==0.2.11
