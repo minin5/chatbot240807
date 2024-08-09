@@ -355,3 +355,7 @@ xlsxwriter==3.2.0 ; python_version >= "3.11" and python_version < "4.0"
 xxhash==3.4.1 ; python_version >= "3.11" and python_version < "4.0"
 yarl==1.9.4 ; python_version >= "3.11" and python_version < "4.0"
 zipp==3.19.2 ; python_version >= "3.11" and python_version < "4.0"
+loguru
+pysqlite3-binary
+chromeadb
+docx2txt
